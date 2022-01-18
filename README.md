@@ -35,7 +35,7 @@ or
 ```bash
 yarn run dev
 ```
-Then go to **localhost:4321** for interactivate WORLD'S BEST UI
+Then go to **localhost:4321** for interact WORLD'S BEST UI
 
 # .env FILE ONLY SHARED FOR DEVELOPING PURPOSES.PLEASE DO NOT SHARE WHEN YOU HAVE SECRET PARAMETERS AT IN IT
 
